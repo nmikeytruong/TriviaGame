@@ -1,0 +1,19 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://media.giphy.com/media/iBANmdIlMNJVC/giphy.gif);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+#body {
+    text-align: center;
+    text-shadow: rgb(48, 47, 47) 0.3em 0.3em 0.3em;
+}
+
